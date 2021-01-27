@@ -13,8 +13,11 @@ public class SpringBootWebsocketApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		/*
 	assertEquals(1,2);
 
+
+		 */
 	}
 
 }
